@@ -1,0 +1,42 @@
+#search-parameters, #schedule-container {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+.search-title, .schedule-title {
+    background-color: #e9ecef;
+    padding: 15px;
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 1px solid lightgray;
+}
+
+#show-form {
+    padding: 15px;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+#top-articles {
+    margin: 25px;
+}
+
+.article-div {
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: chartreuse;
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: black;
+}
+
+table {
+    /* padding: 15px; */
+    
+}
