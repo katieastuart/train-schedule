@@ -1,10 +1,17 @@
-#search-parameters, #schedule-container {
+@import url('https://fonts.googleapis.com/css?family=Corben|Karla|Nunito|Patua+One');
+
+body {
+    background-image: url("../images/topography.png");
+}
+
+#search-parameters {
     border: 1px solid lightgray;
     border-radius: 5px;
     margin-bottom: 25px;
+    background-color: white;
 }
 .search-title, .schedule-title {
-    background-color: #e9ecef;
+    background-color: darkgray;
     padding: 15px;
     border-radius: 5px 5px 0px 0px;
     border-bottom: 1px solid lightgray;
@@ -18,25 +25,20 @@ h6 {
     font-weight: bold;
 }
 
-#top-articles {
-    margin: 25px;
-}
-
-.article-div {
-    margin-bottom: 20px;
-}
-
 h1 {
     text-align: center;
-    color: chartreuse;
-    font-weight: bold;
+    color: white;
+    font-family: 'Patua One', cursive;
 }
 
 .jumbotron {
-    background-color: black;
+    background-image: url("../images/hogwart-express.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-table {
-    /* padding: 15px; */
-    
+.schedule-title {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    font-size: 24px;
 }
