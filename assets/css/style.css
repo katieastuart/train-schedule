@@ -29,12 +29,15 @@ h1 {
     text-align: center;
     color: white;
     font-family: 'Patua One', cursive;
+    
 }
 
 .jumbotron {
-    background-image: url("../images/hogwart-express.jpeg");
+    /* background-image: url("../images/hogwart-express.jpeg"); */
+    background-image: url("../images/train.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 350px;
 }
 
 .schedule-title {
